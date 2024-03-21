@@ -1,0 +1,16 @@
+Canvas is like a blank sheet of paper on a website where you can draw and create graphics using code.
+
+Here's a bit more detail:
+
+HTML Canvas Element: In web development, an HTML canvas is an element that acts like a drawing board. It provides a space on a webpage where you can use JavaScript to draw shapes, lines, images, and more.
+
+Dynamic and Scriptable: "Dynamic" means things can change, and "scriptable" means you can use code (JavaScript) to make those changes. So, with the canvas, you can dynamically draw and manipulate graphics on a webpage using code.
+
+2D or 3D Graphics: You can use the canvas to create both simple 2D drawings (like charts or diagrams) and more complex 3D graphics (if you're working with 3D libraries).
+
+In summary, think of the HTML canvas as a digital drawing board that you can control with code to bring graphics and visual elements to life on a website.
+
+
+
+
+
